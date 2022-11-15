@@ -1,0 +1,22 @@
+{
+  "name": "clone-publising-naver",
+  "version": "1.0.0",
+  "description": "클론 코딩 - 퍼블리싱 연습 목적 - naver 페이지",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangBasak/clone-publising-naver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangBasak/clone-publising-naver/issues"
+  },
+  "homepage": "https://github.com/yangBasak/clone-publising-naver#readme",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
